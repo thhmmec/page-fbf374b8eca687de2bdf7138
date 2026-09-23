@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://g3sz2f.cn/sitemap.xml
